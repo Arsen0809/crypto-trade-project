@@ -1,4 +1,4 @@
-Please create .env file and fill it with your local credantials like env.examople
+Please create .env file and fill it with data in env.example
 For starting program
 Here is the link for Telegram `t.me/coinstatstradeBot` or search in telgram `crypto.trade`
 $ npm i
