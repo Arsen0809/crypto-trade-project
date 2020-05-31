@@ -1,0 +1,1 @@
+export const generateAnswer = (options) => `Current price of ${options.symbol} is ${options.currentPrice} therefore it's ${options.status} ${options.status === 'equal'? 'to' : 'from'} ${options.setPrice}`
